@@ -25,3 +25,4 @@ try:
     print(f"Link: {jira_url}/browse/{new_issue.key}")
 except Exception as e:
     print(f"Failed to create ticket: {e}")
+My Git practice from Command Prompt 
